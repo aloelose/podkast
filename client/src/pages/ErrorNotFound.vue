@@ -26,8 +26,8 @@ import { useRouter } from 'vue-router';
 
 const router = useRouter();
 
-const goToHome = () => {
-  router.push('/');
+const goToHome = async () => {
+  await router.push('/');
 };
 </script>
 

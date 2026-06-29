@@ -20,7 +20,7 @@
           >
           <router-link to="/podcasts" class="menu-link">Подкасты</router-link>
           <a
-            href="https://school-portal.ru"
+            href="https://max.ru/id5903123228_gos"
             target="_blank"
             rel="noopener noreferrer"
             class="menu-link"
@@ -71,7 +71,7 @@
             Подкасты
           </router-link>
           <a
-            href="https://school-portal.ru"
+            href="https://max.ru/id5903123228_gos"
             target="_blank"
             rel="noopener noreferrer"
             class="mobile-menu-link"
@@ -85,16 +85,16 @@
           <div class="mobile-contacts">
             <div class="mobile-contact-title">Контакты</div>
             <div class="mobile-contact-text">
-              Адрес: 614000, Пермский край, город Пермь, Сибирская ул., д. 17
+              Адрес: 614031, Пермский край, город Пермь, Костычева ул., д.16
             </div>
-            <div class="mobile-contact-text">8 (347) 212-70-50</div>
+            <div class="mobile-contact-text">8(342) 206-46-80</div>
             <div class="mobile-contact-text">do@perm.permkrai.ru</div>
           </div>
           <div class="mobile-social">
-            <a href="https://maximum.ru" target="_blank" rel="noopener noreferrer">
+            <a href="https://max.ru/id5903123228_gos" target="_blank" rel="noopener noreferrer">
               <q-img src="~assets/max-icon.svg" class="mobile-social-icon" fit="contain" />
             </a>
-            <a href="https://vk.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://vk.com/urbanisticsschool" target="_blank" rel="noopener noreferrer">
               <q-img src="~assets/vk-icon.svg" class="mobile-social-icon" fit="contain" />
             </a>
           </div>
@@ -156,7 +156,7 @@
             <div class="footer-links">
               <a href="/" class="footer-link">Главная</a>
               <a href="#podcasts" class="footer-link">Подкасты</a>
-              <a href="#activities" class="footer-link">Школьный портал</a>
+              <a href="https://max.ru/id5903123228_gos" class="footer-link">Школьный портал</a>
             </div>
           </div>
 
@@ -173,13 +173,13 @@
           <div class="footer-col footer-col-right">
             <div class="footer-title">Контакты</div>
             <div class="footer-addres">
-              Адрес: 614000, Пермский край, город Пермь, Сибирская ул., д. 17
+              Адрес: 614031, Пермский край, город Пермь, Костычева ул., д.16
             </div>
-            <div class="footer-addres">8 (347) 212-70-50</div>
+            <div class="footer-addres">8(342) 206-46-80</div>
             <div class="footer-addres">do@perm.permkrai.ru</div>
             <div class="footer-social">
               <a
-                href="https://maximum.ru"
+                href="https://max.ru/id5903123228_gos"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="social-link"
@@ -187,7 +187,7 @@
                 <q-img src="~assets/max-icon.svg" class="social-icon" fit="contain" />
               </a>
               <a
-                href="https://vk.com"
+                href="https://vk.com/urbanisticsschool"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="social-link"
