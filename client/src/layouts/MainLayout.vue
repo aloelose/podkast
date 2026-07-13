@@ -208,8 +208,8 @@
         <div class="footer-partners">
           <div class="footer-bottom">
             <div class="footer-partner-text">Сделано в:</div>
-            <a href="https://xn--g1ani7c.xn--p1ai/"><q-img src="~assets/souz.svg" class="partner-1" fit="contain" /></a>
-            <a href="https://grant.obr.so/"><q-img src="~assets/sot.svg" class="partner-2" fit="contain" /></a>
+            <a href="https://xn--g1ani7c.xn--p1ai/" target="_blank"><q-img src="~assets/souz.svg" class="partner-1" fit="contain" /></a>
+            <a href="https://grant.obr.so/" target="_blank"><q-img src="~assets/sot.svg" class="partner-2" fit="contain" /></a>
           </div>
         </div>
       </div>
