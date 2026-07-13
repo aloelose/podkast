@@ -208,8 +208,8 @@
         <div class="footer-partners">
           <div class="footer-bottom">
             <div class="footer-partner-text">Сделано в:</div>
-            <q-img src="~assets/souz.svg" class="partner-1" fit="contain" />
-            <q-img src="~assets/sot.svg" class="partner-2" fit="contain" />
+            <a href="https://xn--g1ani7c.xn--p1ai/"><q-img src="~assets/souz.svg" class="partner-1" fit="contain" /></a>
+            <a href="https://grant.obr.so/"><q-img src="~assets/sot.svg" class="partner-2" fit="contain" /></a>
           </div>
         </div>
       </div>
